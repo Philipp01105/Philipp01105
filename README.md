@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **many projects 😅**
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **GO**
 
 - 👨‍💻 All of my projects are available at [insert future portfolio website]
 
