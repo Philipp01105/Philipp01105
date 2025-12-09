@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GO**
 
-- 👨‍💻 All of my projects are available at [insert future portfolio website]
+- 👨‍💻 My portfolio: [insert future portfolio website]
 
 - 💬 Ask me about **Spring boot, thymeleaf**
 
