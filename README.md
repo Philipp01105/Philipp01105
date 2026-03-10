@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GO**
 
-- 👨‍💻 My portfolio: [Hammerschmidt.site](https://Hammerschmidt.site]
+- 👨‍💻 My portfolio: [Hammerschmidt.site](https://Hammerschmidt.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Discord: nomnom2
