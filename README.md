@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GO**
 
-- 👨‍💻 My portfolio: (Hammerschmidt.site)[https://Hammerschmidt.site]
+- 👨‍💻 My portfolio: [Hammerschmidt.site](https://Hammerschmidt.site)
 
 - 💬 Ask me about **Spring boot, thymeleaf**
 
